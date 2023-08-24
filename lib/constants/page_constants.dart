@@ -10,5 +10,5 @@ List<Widget> pages = const [
   ShopScreen(),
   BagScreen(),
   FavScreen(),
-  ProfileScreen(),
+  //ProfileScreen(),
 ];
